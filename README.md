@@ -6,4 +6,3 @@ This repository hosts the public policy pages required for the “Borderlands 4 
 
 ## Pages
 - Privacy Policy: /privacy.html
-- Terms (optional): /terms.html
