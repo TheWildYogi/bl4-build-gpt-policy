@@ -1,4 +1,4 @@
-# Privacy Policy — Borderlands 4 Builds GPT
+# Privacy Policy - Borderlands 4 Builds GPT
 
 Last updated: 2025-12-14
 
